@@ -1,0 +1,81 @@
+tconst,knownForTitles,nconst,titre,annee,genres,isAdult,note,personne,job,genre_principal,numVotes,decennie,nb_films
+tt6751668,"tt3303730,tt2544120,tt6751668,tt1905059",nm1856097,Parasite,2019,"Drama,Thriller",0,8.5,Cho Yeo-jeong,actress,Drama,838565.0,2010,4.0
+tt4154796,"tt1100089,tt1895587,tt0842926,tt0848228",nm0749263,Avengers: Endgame,2019,"Action,Adventure,Drama",0,8.4,Mark Ruffalo,actor,Action,1163668.0,2010,4.0
+tt8946378,"tt1856101,tt8946378,tt1655389,tt2382320",nm1869101,À couteaux tirés,2019,"Comedy,Crime,Drama",0,7.9,Ana de Armas,actress,Comedy,718547.0,2010,4.0
+tt7286456,"tt1798709,tt1560747,tt0358273,tt0172495",nm0001618,Joker,2019,"Crime,Drama,Thriller",0,8.4,Joaquin Phoenix,actor,Crime,1332870.0,2010,4.0
+tt4154756,"tt3498820,tt2395427,tt0458339,tt0848228",nm0262635,Avengers: Infinity War,2018,"Action,Adventure,Sci-Fi",0,8.4,Chris Evans,actor,Action,1108558.0,2010,4.0
+tt1825683,"tt1825683,tt9114286,tt4154756,tt0857191",nm1775091,Black Panther,2018,"Action,Adventure,Sci-Fi",0,7.3,Danai Gurira,actress,Action,795472.0,2010,4.0
+tt1431045,"tt7125860,tt1431045,tt1760967,tt0437086",nm4534098,Deadpool,2016,"Action,Comedy",0,8.0,Ed Skrein,actor,Action,1057669.0,2010,4.0
+tt2488496,"tt2527336,tt2488496,tt3402236,tt2527338",nm5397459,Star Wars : Épisode VII - Le Réveil de la Force,2015,"Action,Adventure,Sci-Fi",0,7.8,Daisy Ridley,actress,Action,942046.0,2010,4.0
+tt1392190,"tt1877830,tt1840309,tt1270798,tt1392190",nm2368789,Mad Max: Fury Road,2015,"Action,Adventure,Sci-Fi",0,8.1,Zoë Kravitz,actress,Action,1021382.0,2010,4.0
+tt2096673,"tt0871426,tt0072562,tt2096673,tt1266020",nm0688132,Vice-versa,2015,"Adventure,Animation,Comedy",0,8.1,Amy Poehler,actress,Adventure,729053.0,2010,4.0
+tt3659388,"tt3659388,tt1502712,tt1481572,tt0822854",nm0544718,Seul sur Mars,2015,"Adventure,Drama,Sci-Fi",0,8.0,Kate Mara,actress,Adventure,871820.0,2010,4.0
+tt0816692,"tt1673434,tt0816692,tt1754656,tt1457767",nm3237775,Interstellar,2014,"Adventure,Drama,Sci-Fi",0,8.6,Mackenzie Foy,actress,Adventure,1884408.0,2010,4.0
+tt2015381,"tt3896198,tt0796366,tt0499549,tt2015381",nm0757855,Les Gardiens de la Galaxie,2014,"Action,Adventure,Comedy",0,8.0,Zoe Saldana,actress,Action,1197775.0,2010,4.0
+tt2267998,"tt0120201,tt4834206,tt2267998,tt0460649",nm0000439,Gone Girl,2014,"Drama,Mystery,Thriller",0,8.1,Neil Patrick Harris,actor,Drama,1000910.0,2010,4.0
+tt1392214,"tt1454029,tt2671706,tt8093700,tt1386697",nm0205626,Prisoners,2013,"Crime,Drama,Mystery",0,8.1,Viola Davis,actress,Crime,736554.0,2010,4.0
+tt0993846,"tt1726669,tt1915581,tt1935179,tt0790636",nm0000190,Le loup de Wall Street,2013,"Biography,Comedy,Crime",0,8.2,Matthew McConaughey,actor,Biography,1446576.0,2010,4.0
+tt0848228,"tt0848228,tt0887912,tt0840361,tt5362988",nm0719637,Avengers,2012,"Action,Sci-Fi",0,8.0,Jeremy Renner,actor,Action,1407555.0,2010,4.0
+tt1345836,"tt0144084,tt0468569,tt0964517,tt0372784",nm0000288,The Dark Knight Rises,2012,"Action,Drama,Thriller",0,8.4,Christian Bale,actor,Action,1729218.0,2010,4.0
+tt1392170,"tt1270798,tt1045658,tt1800241,tt1392170",nm2225369,Hunger Games,2012,"Action,Adventure,Sci-Fi",0,7.2,Jennifer Lawrence,actress,Action,937854.0,2010,4.0
+tt1853728,"tt0993846,tt0120338,tt0407887,tt1375666",nm0000138,Django Unchained,2012,"Drama,Western",0,8.4,Leonardo DiCaprio,actor,Drama,1584818.0,2010,4.0
+tt0458339,"tt0864761,tt0478970,tt1843866,tt0458339",nm2017943,Captain America: First Avenger,2011,"Action,Adventure,Sci-Fi",0,6.9,Hayley Atwell,actress,Action,858514.0,2010,4.0
+tt1675434,"tt0477507,tt1288631,tt1675434,tt1605783",nm1109153,Intouchables,2011,"Biography,Comedy,Drama",0,8.5,Audrey Fleurot,actress,Biography,874386.0,2010,4.0
+tt1130884,"tt1100089,tt1895587,tt0842926,tt0848228",nm0749263,Shutter Island,2010,"Mystery,Thriller",0,8.2,Mark Ruffalo,actor,Mystery,1346064.0,2010,4.0
+tt1375666,"tt0467406,tt0424136,tt1877832,tt1375666",nm0680983,Inception,2010,"Action,Adventure,Sci-Fi",0,8.8,Elliot Page,actor,Action,2392554.0,2010,4.0
+tt0947798,"tt0376541,tt0947798,tt0110413,tt0434409",nm0000204,Black Swan,2010,"Drama,Thriller",0,8.0,Natalie Portman,actress,Drama,782763.0,2010,4.0
+tt0499549,"tt1630029,tt0800320,tt0499549,tt0438488",nm0941777,Avatar,2009,"Action,Adventure,Fantasy",0,7.9,Sam Worthington,actor,Action,1332991.0,2000,4.0
+tt1049413,"tt0065314,tt0319343,tt0061619,tt1049413",nm0000799,Là-haut,2009,"Adventure,Animation,Comedy",0,8.3,Edward Asner,actor,Adventure,1060739.0,2000,4.0
+tt0361748,"tt0361748,tt1532503,tt6341832,tt1670345",nm0491259,Inglourious Basterds,2009,"Adventure,Drama,War",0,8.3,Mélanie Laurent,actress,Adventure,1477965.0,2000,4.0
+tt0468569,"tt0144084,tt0468569,tt0964517,tt0372784",nm0000288,The Dark Knight : Le Chevalier noir,2008,"Action,Crime,Drama",0,9.0,Christian Bale,actor,Action,2695820.0,2000,4.0
+tt0910970,"tt0076759,tt1650062,tt0120915,tt0910970",nm0123785,WALL·E,2008,"Adventure,Animation,Family",0,8.4,Ben Burtt,actor,Adventure,1133726.0,2000,4.0
+tt0371746,"tt1263670,tt0118715,tt1403865,tt0088172",nm0000313,Iron Man,2008,"Action,Adventure,Sci-Fi",0,7.9,Jeff Bridges,actor,Action,1074706.0,2000,4.0
+tt0482571,"tt0144084,tt0468569,tt0964517,tt0372784",nm0000288,Le Prestige,2006,"Drama,Mystery,Sci-Fi",0,8.5,Christian Bale,actor,Drama,1354053.0,2000,4.0
+tt0407887,"tt0407887,tt3659388,tt0119217,tt0134119",nm0000354,Les infiltrés,2006,"Crime,Drama,Thriller",0,8.5,Matt Damon,actor,Crime,1345804.0,2000,4.0
+tt0372784,"tt0144084,tt0468569,tt0964517,tt0372784",nm0000288,Batman Begins,2005,"Action,Crime,Drama",0,8.2,Christian Bale,actor,Action,1492317.0,2000,4.0
+tt0434409,"tt0434409,tt0167260,tt0167261,tt0120737",nm0915989,V pour vendetta,2005,"Action,Drama,Sci-Fi",0,8.2,Hugo Weaving,actor,Action,1134895.0,2000,4.0
+tt0338013,"tt0110475,tt0109040,tt0315327,tt0338013",nm0000120,Eternal Sunshine of the Spotless Mind,2004,"Drama,Romance,Sci-Fi",0,8.3,Jim Carrey,actor,Drama,1024172.0,2000,4.0
+tt0325980,"tt0414387,tt2084970,tt0783233,tt0325980",nm0461136,Pirates des Caraïbes : La malédiction du Black Pearl,2003,"Action,Adventure,Fantasy",0,8.1,Keira Knightley,actress,Action,1145087.0,2000,4.0
+tt0266697,"tt0266697,tt0110912,tt0118688,tt0378194",nm0000235,Kill Bill: Volume I,2003,"Action,Crime,Drama",0,8.2,Uma Thurman,actress,Action,1132578.0,2000,4.0
+tt0266543,"tt0462346,tt0439100,tt0266543,tt0401422",nm1071252,Le Monde de Nemo,2003,"Adventure,Animation,Comedy",0,8.2,Alexander Gould,actor,Adventure,1059010.0,2000,4.0
+tt0167260,"tt0167260,tt0338013,tt0167261,tt0120737",nm0000704,Le Seigneur des anneaux : Le Retour du roi,2003,"Action,Adventure,Drama",0,9.0,Elijah Wood,actor,Action,1873454.0,2000,4.0
+tt0167261,"tt0325980,tt0167260,tt0120737,tt0167261",nm0089217,Le Seigneur des anneaux : Les Deux Tours,2002,"Action,Adventure,Drama",0,8.8,Orlando Bloom,actor,Action,1691367.0,2000,4.0
+tt0264464,"tt0407887,tt0069762,tt1441912,tt0078788",nm0000640,Arrête-moi si tu peux,2002,"Biography,Crime,Drama",0,8.1,Martin Sheen,actor,Biography,1009384.0,2000,4.0
+tt0253474,"tt0253474,tt0349995,tt1235124,tt0460740",nm0288976,Le pianiste,2002,"Biography,Drama,Music",0,8.5,Emilia Fox,actress,Biography,847775.0,2000,4.0
+tt0120737,"tt0167261,tt0120737,tt1181791,tt0944947",nm0000293,Le Seigneur des anneaux : La Communauté de l'anneau,2001,"Action,Adventure,Drama",0,8.8,Sean Bean,actor,Action,1902601.0,2000,4.0
+tt0211915,"tt0482088,tt0344510,tt0382625,tt0211915",nm0851582,Le fabuleux destin d'Amélie Poulain,2001,"Comedy,Romance",0,8.3,Audrey Tautou,actress,Comedy,765846.0,2000,4.0
+tt0246578,"tt1974419,tt1951264,tt0118884,tt1951266",nm0540441,Donnie Darko,2001,"Drama,Mystery,Sci-Fi",0,8.0,Jena Malone,actress,Drama,814283.0,2000,4.0
+tt0209144,"tt0209144,tt0133093,tt0242653,tt0457572",nm0005251,Memento,2000,"Mystery,Thriller",0,8.4,Carrie-Anne Moss,actress,Mystery,1255353.0,2000,4.0
+tt0172495,"tt0268978,tt0172495,tt0119488,tt1707386",nm0000128,Gladiator,2000,"Action,Adventure,Drama",0,8.5,Russell Crowe,actor,Action,1523612.0,2000,4.0
+tt0180093,"tt0180093,tt0315983,tt0268978,tt0102803",nm0000124,Requiem for a Dream,2000,Drama,0,8.3,Jennifer Connelly,actress,Drama,855787.0,2000,4.0
+tt0120689,"tt0162222,tt0120815,tt0109830,tt0094737",nm0000158,La ligne verte,1999,"Crime,Drama,Fantasy",0,8.6,Tom Hanks,actor,Crime,1323732.0,1990,4.0
+tt0169547,"tt0816692,tt0804516,tt0169547,tt1392170",nm0004747,American Beauty,1999,Drama,0,8.4,Wes Bentley,actor,Drama,1167696.0,1990,4.0
+tt0167404,"tt1139328,tt1174732,tt0167404,tt0128445",nm0931404,Sixième sens,1999,"Drama,Mystery,Thriller",0,8.2,Olivia Williams,actress,Drama,1005219.0,1990,4.0
+tt0137523,"tt0137523,tt2249007,tt0348914,tt8134186",nm0340260,Fight Club,1999,Drama,0,8.8,Zach Grenier,actor,Drama,2166293.0,1990,4.0
+tt0133093,"tt0234215,tt0111257,tt0102685,tt0133093",nm0000206,Matrix,1999,"Action,Sci-Fi",0,8.7,Keanu Reeves,actor,Action,1942391.0,1990,4.0
+tt0120915,"tt0376541,tt0947798,tt0110413,tt0434409",nm0000204,Star Wars: Épisode I - La menace fantôme,1999,"Action,Adventure,Fantasy",0,6.5,Natalie Portman,actress,Action,818322.0,1990,4.0
+tt0120586,"tt0137523,tt0117381,tt2562232,tt0120586",nm0001570,American History X,1998,"Crime,Drama",0,8.5,Edward Norton,actor,Crime,1136594.0,1990,4.0
+tt0120382,"tt0120382,tt0349825,tt1650062,tt0337921",nm0001187,The Truman Show,1998,"Comedy,Drama",0,8.2,Noah Emmerich,actor,Comedy,1105947.0,1990,4.0
+tt0120815,"tt0162222,tt0120815,tt0109830,tt0094737",nm0000158,Il faut sauver le soldat Ryan,1998,"Drama,War",0,8.6,Tom Hanks,actor,Drama,1413041.0,1990,4.0
+tt0120338,"tt0993846,tt0120338,tt0407887,tt1375666",nm0000138,Titanic,1997,"Drama,Romance",0,7.9,Leonardo DiCaprio,actor,Drama,1210699.0,1990,4.0
+tt0114814,"tt0115683,tt0114814,tt0486583,tt0158622",nm0000286,Usual Suspects,1995,"Crime,Drama,Mystery",0,8.5,Stephen Baldwin,actor,Crime,1098345.0,1990,4.0
+tt0114709,"tt0230011,tt0114709,tt0095107,tt0092974",nm0001815,Toy Story,1995,"Adventure,Animation,Comedy",0,8.3,Jim Varney,actor,Adventure,1009819.0,1990,4.0
+tt0114369,"tt0468569,tt0114369,tt1057500,tt0097239",nm0000151,Seven,1995,"Crime,Drama,Mystery",0,8.6,Morgan Freeman,actor,Crime,1682218.0,1990,4.0
+tt0112573,"tt0238380,tt0489270,tt0112573,tt1389137",nm0005171,Braveheart,1995,"Biography,Drama,History",0,8.4,Angus Macfadyen,actor,Biography,1050070.0,1990,4.0
+tt0109830,"tt0217869,tt0093779,tt0109830,tt0442933",nm0000705,Forrest Gump,1994,"Drama,Romance",0,8.8,Robin Wright,actress,Drama,2117534.0,1990,4.0
+tt0110413,"tt0376541,tt0947798,tt0110413,tt0434409",nm0000204,Léon,1994,"Action,Crime,Drama",0,8.5,Natalie Portman,actress,Action,1179874.0,1990,4.0
+tt0111161,"tt0091225,tt0112818,tt0327056,tt0105151",nm0000209,Les Évadés,1994,Drama,0,9.3,Tim Robbins,actor,Drama,2722984.0,1990,4.0
+tt0110357,"tt0115798,tt0091042,tt0395251,tt0086567",nm0000111,Le Roi Lion 3D,1994,"Adventure,Animation,Drama",0,8.5,Matthew Broderick,actor,Adventure,1076008.0,1990,4.0
+tt0110912,"tt0113161,tt0110912,tt0077631,tt0076666",nm0000237,Pulp Fiction,1994,"Crime,Drama",0,8.9,John Travolta,actor,Crime,2091531.0,1990,4.0
+tt0108052,"tt0083987,tt0108052,tt1300854,tt0203119",nm0001426,La liste de Schindler,1993,"Biography,Drama,History",0,9.0,Ben Kingsley,actor,Biography,1375211.0,1990,4.0
+tt0107290,"tt4698684,tt0107290,tt0107822,tt0163025",nm0000554,Jurassic Park,1993,"Action,Adventure,Sci-Fi",0,8.2,Sam Neill,actor,Action,1005994.0,1990,4.0
+tt0105236,"tt0105236,tt0266697,tt0114508,tt3460252",nm0000514,Reservoir Dogs,1992,"Crime,Thriller",0,8.3,Michael Madsen,actor,Crime,1035298.0,1990,4.0
+tt0102926,"tt0103919,tt4648786,tt0102926,tt0119080",nm0501435,Le Silence des agneaux,1991,"Crime,Drama,Thriller",0,8.6,Kasi Lemmons,actress,Crime,1455900.0,1990,4.0
+tt0103064,"tt0118928,tt0103064,tt0088247,tt6450804",nm0000157,Terminator 2 : Le jugement dernier,1991,"Action,Sci-Fi",0,8.6,Linda Hamilton,actress,Action,1115209.0,1990,4.0
+tt0099685,"tt0141842,tt0099685,tt0104839,tt0112461",nm0000966,Les affranchis,1990,"Biography,Crime,Drama",0,8.7,Lorraine Bracco,actress,Biography,1181458.0,1990,4.0
+tt0090605,"tt0078748,tt0095243,tt0499549,tt0118583",nm0000244,Aliens : Le Retour,1986,"Action,Adventure,Sci-Fi",0,8.4,Sigourney Weaver,actress,Action,727835.0,1980,4.0
+tt0088763,"tt0091860,tt1898069,tt0118141,tt0310357",nm0000417,Retour vers le futur,1985,"Adventure,Comedy,Sci-Fi",0,8.5,Crispin Glover,actor,Adventure,1227066.0,1980,4.0
+tt0086250,"tt0177971,tt0096754,tt0164085,tt0102798",nm0001512,Scarface,1983,"Crime,Drama",0,8.3,Mary Elizabeth Mastrantonio,actress,Crime,857662.0,1980,4.0
+tt0086190,"tt2527336,tt0080684,tt0076759,tt0086190",nm0000434,Le Retour du Jedi,1983,"Action,Adventure,Fantasy",0,8.3,Mark Hamill,actor,Action,1068997.0,1980,4.0
+tt0080684,"tt2527336,tt0080684,tt0076759,tt0086190",nm0000434,Star Wars: Épisode V - L'Empire contre-attaque,1980,"Action,Adventure,Fantasy",0,8.7,Mark Hamill,actor,Action,1310893.0,1980,4.0
+tt0081505,"tt0073486,tt0407887,tt0119822,tt0071315",nm0000197,Shining,1980,"Drama,Horror",0,8.4,Jack Nicholson,actor,Drama,1040143.0,1980,4.0
